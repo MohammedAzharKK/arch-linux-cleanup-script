@@ -45,7 +45,8 @@ Execute the script with the following command:
 ```
 The script will perform various cleanup operations as specified.
 
-Optional: Move Script for Easy Access
+**Optional**: 
+Move Script for Easy Access
 When you run the script for the first time, it will prompt you to move itself to /usr/local/bin for easy access. If you choose to do so, you can run the script from anywhere using:
 
 ```bash
