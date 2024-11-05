@@ -25,26 +25,29 @@ This script is designed to help clean up unnecessary files and free up space on 
    Open your terminal and type the following command to create a local copy of the repository on your machine:
    ```bash
    git clone https://github.com/yourusername/arch-linux-cleanup-script.git
-Navigate to the Directory:
+   ```
+**Navigate to the Directory**:
 After cloning the repository, change your current directory to the one containing the script:
-
-bash
-Copy code
+```bash
 cd arch-linux-cleanup-script
-Make the Script Executable:
+```
+
+**Make the Script Executable**:
 Grant execute permissions to the cleanup.sh script by typing:
 
-bash
+```bash
 chmod +x cleanup.sh
-
-Run the Script:
+```
+**Run the Script**:
 Execute the script with the following command:
-bash
+```bash
 ./cleanup.sh
+```
 The script will perform various cleanup operations as specified.
 
 Optional: Move Script for Easy Access
 When you run the script for the first time, it will prompt you to move itself to /usr/local/bin for easy access. If you choose to do so, you can run the script from anywhere using:
 
-bash
+```bash
 cleanup.sh
+```
