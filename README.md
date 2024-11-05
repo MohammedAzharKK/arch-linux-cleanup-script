@@ -24,7 +24,7 @@ This script is designed to help clean up unnecessary files and free up space on 
 1. **Clone the Repository**:  
    Open your terminal and type the following command to create a local copy of the repository on your machine:
    ```bash
-   git clone https://github.com/yourusername/arch-linux-cleanup-script.git
+   git clone https://github.com/MohammedAzharKK/arch-linux-cleanup-script.git
    ```
 **Navigate to the Directory**:
 After cloning the repository, change your current directory to the one containing the script:
